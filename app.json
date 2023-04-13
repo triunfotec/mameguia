@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Mameguia",
+    "slug": "mameguia",
+    "owner": "adrianodesenv",
+    "scheme": "com.mameguia",
+    "version": "7.7",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.mameguia",
+      "googleServicesFile": "android/app/google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.applausemobile.Amamentacao",
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyCtSp7Av7QWYKIBKCM9aZzXZ2uQxNQ-7AE",
+          "measurementId": "G-DDFQ5E6V94"
+        }
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#fff",
+      "resizeMode": "cover"
+    },
+    "facebookScheme": "fb1027909734726963",
+    "facebookAppId": "1027909734726963",
+    "facebookDisplayName": "Mameguia",
+    "facebookAutoInitEnabled": true,
+    "plugins": [
+      "expo-community-flipper",
+      "react-native-fbsdk-next",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O aplicativo acessa suas fotos para permitir que você as adicione ao aplicativo."
+        }
+      ]
+    ]
+  },
+  "name": "Mameguia"
+}
