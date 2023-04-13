@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882913091291",
+    "project_id": "mameguia-app-d5c58",
+    "storage_bucket": "mameguia-app-d5c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882913091291:android:275c2a80df89c63df0f6fe",
+        "android_client_info": {
+          "package_name": "br.com.libbs.diarioamamentacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882913091291-g2e33eksi1ungqtvlcb52t3uskn72daf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQx9nJoqooUKjeASi9GrkzVLdsdvvM9pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882913091291-g2e33eksi1ungqtvlcb52t3uskn72daf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
